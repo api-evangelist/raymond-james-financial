@@ -1,0 +1,7 @@
+aid: raymond-james-financial
+url: https://raw.githubusercontent.com/api-evangelist/raymond-james-financial/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis: []
+common:
+  - type: Website
+    url: https://www.raymond-james-financial.com
