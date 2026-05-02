@@ -1,5 +1,5 @@
 # Raymond James Financial (raymond-james-financial)
-Raymond James Financial is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Raymond James Financial.
+Raymond James Financial is a diversified financial services holding company providing investment management, banking, and capital markets services to individuals, corporations, and municipalities. No public developer API or machine-readable specification has been documented on the public website at this time.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/raymond-james-financial/refs/heads/main/apis.yml)
 
@@ -11,12 +11,12 @@ Raymond James Financial is a Fortune 500 company. This repository captures the A
 
 ## Tags:
 
- - Fortune 500
+ - Financial Services, Investment Management, Banking, Capital Markets, Fortune 500
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
@@ -24,10 +24,10 @@ No public APIs have been documented yet. Contributions welcome.
 
 ## Common Properties
 
-- [Website](https://www.raymond-james-financial.com)
+- [Website](https://www.raymondjames.com)
 
 ## Maintainers
 
-**FN:** API Evangelist
+**FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com

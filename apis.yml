@@ -1,12 +1,28 @@
 aid: raymond-james-financial
-url: 
-  https://raw.githubusercontent.com/api-evangelist/raymond-james-financial/refs/heads/main/apis.yml
-modified: '2026-03-21'
+name: Raymond James Financial
+description: >-
+  Raymond James Financial is a diversified financial services holding company
+  providing investment management, banking, and capital markets services to
+  individuals, corporations, and municipalities. No public developer API or
+  machine-readable specification has been documented on the public website at
+  this time.
+type: Contract
+position: Consuming
+access: 3rd-Party
+url: https://raw.githubusercontent.com/api-evangelist/raymond-james-financial/refs/heads/main/apis.yml
+tags:
+  - Financial Services
+  - Investment Management
+  - Banking
+  - Capital Markets
+  - Fortune 500
+created: '2026-03-21'
+modified: '2026-04-28'
+specificationVersion: '0.19'
 apis: []
 common:
   - type: Website
-    url: https://www.raymond-james-financial.com
-description: >-
-  Raymond James Financial is a diversified financial services holding company providing
-  investment management, banking, and capital markets services to individuals, corporations,
-  and municipalities.
+    url: https://www.raymondjames.com
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
