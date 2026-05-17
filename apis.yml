@@ -11,7 +11,7 @@ description: >-
   company offers client-facing portals and mobile apps for account management
   and reporting but does not publish a general-purpose public developer API or
   machine-readable specification at this time.
-type: Contract
+kind: contract
 position: Consuming
 access: 3rd-Party
 url: https://raw.githubusercontent.com/api-evangelist/raymond-james-financial/refs/heads/main/apis.yml
