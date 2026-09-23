@@ -1,7 +1,9 @@
 ---
 title: A proprietary artificial intelligence (AI) agent, dubbed Rai ...
 url: https://www.facebook.com/RaymondJames/posts/a-proprietary-artificial-intelligence-ai-agent-dubbed-rai-will-deliver-enhanced-/1312009590958420/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Raymond James Financial" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Raymond James hires David Solganik as head of AI strategy
 url: https://www.raymondjames.com/advisor-opportunities/press-releases/2025/09/08/raymond-james-hires-david-solganik-as-head-of-ai-strategy
-date: '2026-05-25'
+published: '2025-09-08'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Raymond James Financial" press release artificial intelligence'
 position: 4
 source: serpapi-google
