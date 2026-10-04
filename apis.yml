@@ -43,7 +43,7 @@ tags:
   - Banking
   - Brokerage
   - Capital Markets
-  - Financial-Services
+  - Financial Services
   - Fortune 500
   - Investment Banking
   - Investment Management
@@ -58,6 +58,7 @@ tags_raw:
   - Investment Banking
   - Investment Management
   - Wealth Management
+  - Financial-Services
 created: '2026-03-21'
 modified: '2026-05-02'
 specificationVersion: '0.23'
