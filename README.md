@@ -64,50 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Raymond James Financial is a diversified financial services holding company headquartered in St. Petersburg, Florida, providing investment banking, wealth management, capital markets, asset management, and banking services to individuals, corporations, and municipalities.
+Raymond James Financial is a diversified financial services holding company headquartered in St. Petersburg, Florida, providing investment banking, wealth management, capital markets, asset management, and banking services to individuals, corporations, and municipalities. With more than 7,100 financial advisors serving approximately 3 million client accounts and total client assets exceeding $637 billion, Raymond James is a Fortune 500 firm and one of the largest independent broker-dealers in the United States. The company offers client-facing portals and mobile apps for account management and reporting but does not publish a general-purpose public developer API or machine-readable specification at this time.
 
-With more than 7,100 financial advisors serving approximately 3 million client accounts and total client assets exceeding $637 billion, Raymond James is a Fortune 500 firm and one of the largest independent broker-dealers in the United States.
+**Areas:** Asset Management · Banking · Brokerage · Capital Markets · Financial Services · Fortune 500 · Investment Banking · Investment Management · Wealth Management
 
-**No public developer API or machine-readable specification has been documented at this time.** Raymond James offers client-facing portals and mobile apps for account management but does not publish a general-purpose developer API.
+## Raymond James Financial on APIs.io
 
-**URL:** [Visit APIs.json](https://raw.githubusercontent.com/api-evangelist/raymond-james-financial/refs/heads/main/apis.yml)
+Everything profiled for Raymond James Financial is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/raymond-james-financial/](https://apis.io/providers/raymond-james-financial/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+### Published properties
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Tags
+#### Security (1)
 
-Asset Management, Banking, Brokerage, Capital Markets, Financial Services, Fortune 500, Investment Banking, Investment Management, Wealth Management
+Authentication, trust centre, and vulnerability disclosure.
 
-## Timestamps
+- [Raymond James Financial Domain Security](https://apis.io/security/raymond-james-financial/raymond-james-financial-domain-security/)
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-05-02
+## Where to find this API
 
-## APIs
-
-No public APIs have been documented at this time.
-
-## Services
-
-- **Wealth Management** — Financial planning and portfolio management for individuals
-- **Investment Banking** — Capital raising, M&A advisory, and strategic services for corporations
-- **Capital Markets** — Equity and fixed income research, sales, and trading
-- **Asset Management** — Institutional and individual investment solutions
-- **Banking** — Deposit products and lending via Raymond James Bank
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.raymondjames.com)
-- [Portal](https://clientaccess.rjf.com/)
-- [PrivacyPolicy](https://www.raymondjames.com/legal-notices/privacy-notice)
-- [TermsOfService](https://www.raymondjames.com/legal-notices/website-terms-of-use)
+- [Terms of service](https://www.raymondjames.com/legal-notices/website-terms-of-use)
+- [Privacy policy](https://www.raymondjames.com/legal-notices/privacy-notice)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 6.9** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.9** — Banking & Open Finance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/raymond-james-financial/](https://apis.io/providers/raymond-james-financial/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Raymond James Financial: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/raymond-james-financial/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
